@@ -46,7 +46,6 @@ module.exports = {
     'func-names': ['warn', 'as-needed'],
     'generator-star-spacing': ['warn', 'neither'],
     'getter-return': 'warn',
-    'guard-for-in': 'off', // see no-restricted-syntax
     'id-blacklist': ['warn', 'temp'],
     'indent': ['warn', 2],
     'init-declarations': 'warn',
