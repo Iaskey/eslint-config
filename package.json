@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "@aida/eslint-config",
   "version": "1.0.0",
   "description": "ESLint configuration used by the AIDA teams.",
   "private": true,
