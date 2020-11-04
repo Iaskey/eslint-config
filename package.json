@@ -1,5 +1,5 @@
 {
-  "name": "@unlsoft/lintConfig",
+  "name": "@unlsoft/lint-config",
   "version": "1.0.0",
   "description": "ESLint configuration used by the UNL SOFT core courses.",
   "private": true,
